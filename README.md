@@ -14,7 +14,7 @@ A and D - Left and Right (Respectively)
 
 Left Arrow and Right Arrow - Left and Right (Respectively)
 
-## Specifications
+## System Requirements
 
 ### Recommended Specifications
 
