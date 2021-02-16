@@ -1,6 +1,6 @@
-<img src="https://i.ibb.co/3CKf7sq/boxsurf-logo.png" height="200" width="auto">
+<img src="https://i.ibb.co/0ywjmSq/boxsurf-logo-1.png" height="200" width="auto">
 
-# Box Surf
+# Box Surfer
 
 A game where you surf on a floor as a box, while attempting to dodge obstacles.
 
