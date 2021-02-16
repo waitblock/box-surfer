@@ -31,3 +31,7 @@ Left Arrow and Right Arrow - Left and Right (Respectively)
 - Safari 12.0
 - Opera 43.0
 - 2GB RAM
+
+## Credits
+
+- Game Audio: Cloud 9, by Itro & Tobu
