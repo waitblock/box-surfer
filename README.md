@@ -6,7 +6,7 @@ A game where you surf on a floor as a box, while attempting to dodge obstacles.
 
 ## Directions
 
-The red box is the player (you), and the gray boxes are the obstacles. Move the player around using the [controls](https://github.com/waitblock/box-surfer#controls) to avoid the obstacles.
+The red box is the player (you), and the gray boxes are the obstacles. Move the player around using the [controls](https://github.com/waitblock/box-surfer#controls) to avoid the obstacles. Click [this link](https://waitblock.github.io/box-surfer/) to play the game.
 
 ## Controls
 
