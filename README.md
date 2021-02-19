@@ -1,7 +1,5 @@
 <img src="https://i.ibb.co/0ywjmSq/boxsurf-logo-1.png" height="200" width="auto">
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fwaitblock%2Fbox-surfer)
-
 # Box Surfer
 
 A game where you surf on a floor as a box, while attempting to dodge obstacles.
